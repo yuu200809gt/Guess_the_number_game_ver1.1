@@ -1,4 +1,5 @@
-# Guess the number game（数字当てゲームver1.1）![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+# Guess the number game（数字当てゲームver1.1）
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 
 ## 遊び方
