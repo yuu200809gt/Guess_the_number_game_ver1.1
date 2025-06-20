@@ -10,7 +10,7 @@
 ## ゲーム実行方法
 
 ````bash
-git clone 
+git clone https://github.com/yuu200809gt/Guess_the_number_game_ver1.1.git
 cd Guess_the_number_game
 python3 main.py
 ````
