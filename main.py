@@ -26,9 +26,3 @@ for i in range(1,answer_chance+1):
         print("数字を入力してください \n")
 else:
     print(f"残念!答えは{target}でした！")        
-
-
-
-
-
-
